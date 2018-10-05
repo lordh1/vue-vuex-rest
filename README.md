@@ -1,4 +1,4 @@
-# vue-youtube-player
+# vue-vuex-rests
 
 > Vue + Vuex : using Rest API example (without Authentication) # 
 
